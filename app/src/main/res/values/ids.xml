@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fill_the_blank_container" type="id" />
+    <item name="edit_text" type="id" />
+    <item name="check_button" type="id" />
+</resources>
